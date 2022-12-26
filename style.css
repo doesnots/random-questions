@@ -18,14 +18,15 @@ body {
     background-color: blanchedalmond; 
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 5px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: flex;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
     align-items: center;
+    
     
   }
 
@@ -36,7 +37,12 @@ body {
     border-radius: 12px;
     padding: 14px 40px;
     align-items: center;
-    margin-left: 640px;
+    margin: 0;
+    position: absolute;
+    
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
     font-family: monospace;
     font-weight: bold;
   }
