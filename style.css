@@ -31,7 +31,7 @@ body {
   }
 
   .button1 {
-    display: flex;
+   
     background-color: pink; 
     color: black; 
     border-radius: 12px;
