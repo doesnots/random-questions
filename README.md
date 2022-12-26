@@ -2,4 +2,4 @@
 Random Question Generator ^_^ 
 
 
-It's live on https://doesnots.github.io/so-random/
+It's live on https://doesnots.github.io/random-questions/
