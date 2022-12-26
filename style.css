@@ -1,0 +1,71 @@
+body {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+  
+  h1 {
+    
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: center;
+    color: bisque;
+  }
+
+  .button {
+    background-color: blanchedalmond; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    align-items: center;
+    
+  }
+
+  .button1 {
+    display: flex;
+    background-color: pink; 
+    color: black; 
+    border-radius: 12px;
+    padding: 14px 40px;
+    align-items: center;
+    margin-left: 640px;
+    font-family: monospace;
+    font-weight: bold;
+  }
+
+  .button1:hover{
+    background-color: cadetblue;
+  }
+
+ #questDisplay{
+    font-size: larger;
+    color: beige;
+    max-width: 30em;
+ 
+  font-family: monospace;
+  letter-spacing:0.1em;
+  text-align:center;
+  margin: 40px auto;
+  text-transform: lowercase;
+  line-height: 145%;
+  font-size: 2em;
+  font-variant: small-caps;
+ }
+
+ .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: medium;
+  }
